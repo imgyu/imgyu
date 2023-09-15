@@ -2,7 +2,7 @@
 <br>
 <br
 
-![header](https://capsule-render.vercel.app/api?type=Wave&text=Inb&color=00ffff&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=Wave&text=Inb&color=00ffff&fontColor=ffffff)
 
 ####  :wave: Welcome my github profile !
 
